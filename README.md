@@ -1,12 +1,10 @@
-<html><pre>
 This is the readme.txt for the model associated with the paper
 
 Wang J, Si W, Che Y, Fei X. Spike trains in Hodgkin-Huxley model and
-ISIs of acupuncture manipulations. Chaos, Solitons & Fractals 2008;
+ISIs of acupuncture manipulations. *Chaos, Solitons & Fractals* 2008;
 36:890-900
 
-
-Abstract:
+## Abstract:
 
 The Hodgkin-Huxley equations (HH) are parameterized by a number of
 parameters and shows a variety of qualitatively different behaviors
@@ -22,18 +20,17 @@ electrical signal time series at the spinal dorsal horn produced by
 three different acupuncture manipulations in Zusanli point and present
 an effective way to distinguish them.
 
+---
 
--------
+## To run the models:
 
-To run the models:
-XPP: start with the command
-xppaut HH-ext.ode
+**XPP:** start with the command
+`xppaut HH-ext.ode`
+
 This simulation will make graph similar to Figure 3 in the paper of
-Wang et al.  Measurement of ISI can also be made under xpp.
+Wang et al. Measurement of ISI can also be made under xpp.
 
-<img src="./HH-ext.JPG" alt="screenshot">
-
-Bard Ermentrout's website http://www.pitt.edu/~phase/
+Bard Ermentrout's website [http://www.pitt.edu/~phase/](http://www.pitt.edu/~phase/)
 describes how to get and use xpp.
 
 These model files were submitted by:
@@ -43,4 +40,7 @@ Cardiac Electrophysiology and Systems-biology Center
 National Cheng Kung University Medical Center
 Tainan 70101, Taiwan
 snwu@mail.ncku.edu.tw
-</pre></html>
+
+---
+
+2025-06-02: Standardized to Markdown.
