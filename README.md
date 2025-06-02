@@ -35,10 +35,10 @@ describes how to get and use xpp.
 
 These model files were submitted by:
 
-Sheng-Nan Wu and Yung-Hun Wu
-Cardiac Electrophysiology and Systems-biology Center
-National Cheng Kung University Medical Center
-Tainan 70101, Taiwan
+Sheng-Nan Wu and Yung-Hun Wu  
+Cardiac Electrophysiology and Systems-biology Center  
+National Cheng Kung University Medical Center  
+Tainan 70101, Taiwan  
 snwu@mail.ncku.edu.tw
 
 ---
